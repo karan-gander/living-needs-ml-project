@@ -1,0 +1,33 @@
+city = {
+  "cities": [
+    "Jaipur",
+    "Jodhpur",
+    "Udaipur",
+    "Ajmer",
+    "Bikaner",
+    "Kota",
+    "Alwar",
+    "Bharatpur",
+    "Sikar",
+    "Pali",
+    "Bhilwara",
+    "Chittorgarh",
+    "Barmer",
+    "Jaisalmer",
+    "Jhunjhunu",
+    "Tonk",
+    "Nagaur",
+    "Sawai Madhopur",
+    "Churu",
+    "Dholpur",
+    "Hanumangarh",
+    "Dausa",
+    "Rajsamand",
+    "Sirohi",
+    "Karauli",
+    "Jhalawar",
+    "Banswara",
+    "Dungarpur",
+    "Pratapgarh"
+  ]
+}
